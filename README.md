@@ -2,25 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/fa066c6c-9923-4500-8ff4-0583179217fd)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Dataset](#dataset)
-4. [Model Architecture](#model-architecture)
-5. [Training the Model](#training-the-model)
-6. [Evaluating the Model](#evaluating-the-model)
-7. [Testing on KITTI Dataset](#testing-on-kitti-dataset)
-8. [Visualization](#visualization)
-9. [Code Organization](#code-organization)
-10. [Usage](#usage)
-11. [Saving and Loading Models](#saving-and-loading-models)
-12. [Results](#results)
-13. [Troubleshooting](#troubleshooting)
-14. [Contributing](#contributing)
-15. [License](#license)
-16. [Acknowledgements](#acknowledgements)
-17. [Contact Information](#contact-information)
-
 ## Introduction
 This project focuses on segmenting roads from aerial images using a VGG-FCN8 neural network. The primary goal is to accurately identify road pixels to aid in autonomous driving and GIS applications.
 
