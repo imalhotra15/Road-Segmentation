@@ -1,5 +1,7 @@
 # Road Segmentation Using VGG-FCN8 on KITTI Dataset
 
+![image](https://github.com/user-attachments/assets/fa066c6c-9923-4500-8ff4-0583179217fd)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
@@ -102,6 +104,9 @@ The VGG-FCN8 model was modified to accommodate binary road segmentation. The mod
 #### Training Visualization
 
 https://github.com/user-attachments/assets/dc096a27-77e7-48d5-9a65-13348d18693a
+
+https://github.com/user-attachments/assets/003cc31e-8137-46eb-a92b-b35a0bb94207
+
 
 
 #### Video Demo
